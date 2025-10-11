@@ -17,9 +17,9 @@
 ## 导入方法
 
 1. 点击脚本文件的"Raw"链接
-<img width="209" height="103" alt="image" src="https://github.com/user-attachments/assets/984c96b2-66ac-4df7-851d-f0bf1a26b1ae" />
-3. Tampermonkey 会检测到用户脚本并显示安装界面
-4. 点击"安装"按钮完成安装
+![Raw](https://github.com/user-attachments/assets/984c96b2-66ac-4df7-851d-f0bf1a26b1ae)
+2. Tampermonkey 会检测到用户脚本并显示安装界面
+3. 点击"安装"按钮完成安装
 
 ## 使用方法
 
