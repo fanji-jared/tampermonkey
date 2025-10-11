@@ -7,8 +7,7 @@
 
 | 项目名称 | 路径 | 
 | --- | --- | 
-| CodeCV简历保存打印脚本 | [./codecv/codecv.user.js](https://github.com/abining/tampermonkey/tree/main/codecv) | 
-| Duome Stories 音频控制器 | [./Duome/Duome.user.js](https://github.com/abining/tampermonkey/tree/main/Duome) |
+| RZLowCode开发工具箱 | [./RZLowCode/RZLowCode开发工具箱-0.5.0.user.js](https://github.com/fanji-jared/tampermonkey/RZLowCode/) | 
 
 ## 脚本介绍
 
