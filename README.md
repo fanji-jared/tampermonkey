@@ -4,15 +4,18 @@
 
 ## 脚本列表
 
-| 项目名称 | 路径 | 
-| --- | --- | 
-| RZLowCode开发工具箱 | [RZLowCode开发工具箱 0.5.0 ](https://github.com/fanji-jared/tampermonkey/tree/main/RZLowCode) | 
+| 项目名称 | 路径 |
+| --- | --- |
+| RZLowCode开发工具箱 | [RZLowCode开发工具箱 0.5.0](https://github.com/fanji-jared/tampermonkey/tree/main/RZLowCode) |
+
 ## 脚本介绍
 
 ### RZLowCode开发工具箱
+
 为RZ低代码平台开发提供的工具箱，首个功能为 **字段列宽计算工具**
 
 ## 导入方法
+
 1. 点击脚本文件的"Raw"链接
 2. Tampermonkey 会检测到用户脚本并显示安装界面
 3. 点击"安装"按钮完成安装
