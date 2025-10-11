@@ -7,8 +7,7 @@
 
 | 项目名称 | 路径 | 
 | --- | --- | 
-| RZLowCode开发工具箱 | [./RZLowCode/RZLowCode开发工具箱-0.5.0.user.js](https://github.com/fanji-jared/tampermonkey/RZLowCode/) | 
-
+| RZLowCode开发工具箱 | [RZLowCode开发工具箱 0.5.0 ](https://github.com/fanji-jared/tampermonkey/tree/main/RZLowCode) | 
 ## 脚本介绍
 
 ### CodeCV简历保存打印脚本
