@@ -12,25 +12,25 @@
 
 ### RZLowCode开发工具箱
 
-为RZ低代码平台开发提供的工具箱，首个功能为 **字段列宽计算工具**
-
-## 导入方法
-
-1. 点击脚本文件的"Raw"链接
-
-    ![Raw](https://github.com/user-attachments/assets/984c96b2-66ac-4df7-851d-f0bf1a26b1ae)
-
-2. Tampermonkey 会检测到用户脚本并显示安装界面
-3. 点击"安装"按钮完成安装
-
-    ![点击安装](https://github.com/user-attachments/assets/ec8672f5-b056-430a-bc08-9d4bbd284141)
+| 功能 | 描述 |
+| --- | --- |
+| 字段列宽计算工具 | 用于自动计算RZ低代码平台中表格字段列的宽度，然后生成RZ平台对应配置字符串 |
 
 ## 使用方法
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
 2. 点击上方表格中的脚本链接
-3. 在打开的页面中点击「安装」或「Raw」按钮
-4. 访问对应网站，脚本将自动生效
+3. 在打开的页面中点击「Raw」按钮
+4. 点击脚本文件的"Raw"链接
+
+    ![Raw](https://github.com/user-attachments/assets/984c96b2-66ac-4df7-851d-f0bf1a26b1ae)
+
+5. Tampermonkey 会检测到用户脚本并显示安装界面
+6. 点击"安装"按钮完成安装
+
+    ![点击安装](https://github.com/user-attachments/assets/ec8672f5-b056-430a-bc08-9d4bbd284141)
+
+7. 访问对应网站，脚本将自动生效
 
 ## 贡献
 
